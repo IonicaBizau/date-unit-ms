@@ -4,7 +4,8 @@
   "description": "Millisecond conversions for common date units (seconds, minutes, hours etc).",
   "main": "lib/index.js",
   "directories": {
-    "example": "example"
+    "example": "example",
+    "test": "test"
   },
   "scripts": {
     "test": "node test"
@@ -20,18 +21,31 @@
     "tester": "^1.3.0"
   },
   "blah": {
-      "documentation": [
-          { "p": "The library exports an object containing the number of milliseconds for the following date units:" },
-          {
-              "ul": [
-                "`ms`",
-                "`second`",
-                "`minute`",
-                "`hour`",
-                "`day`",
-                "`week`"
-              ]
-          }
-      ]
-  }
+    "documentation": [
+      {
+        "p": "The library exports an object containing the number of milliseconds for the following date units:"
+      },
+      {
+        "ul": [
+          "`ms`",
+          "`second`",
+          "`minute`",
+          "`hour`",
+          "`day`",
+          "`week`"
+        ]
+      }
+    ]
+  },
+  "dependencies": {
+    "tester": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/date-unit-ms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/date-unit-ms/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/date-unit-ms#readme"
 }
