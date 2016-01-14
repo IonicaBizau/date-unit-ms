@@ -1,6 +1,6 @@
 {
   "name": "date-unit-ms",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Millisecond conversions for common date units (seconds, minutes, hours etc).",
   "main": "lib/index.js",
   "directories": {

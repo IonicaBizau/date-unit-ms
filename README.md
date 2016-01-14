@@ -1,6 +1,6 @@
-# date-unit-ms [![Support this project][donate-now]][paypal-donations]
+# date-unit-ms [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Downloads](https://img.shields.io/npm/dt/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Millisecond conversions for common date units (seconds, minutes, hours etc).
+> Millisecond conversions for common date units (seconds, minutes, hours etc).
 
 ## Installation
 
@@ -48,6 +48,10 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`daty`](https://github.com/IonicaBizau/daty#readme)
+
+ - [`diff-dates`](https://github.com/IonicaBizau/diff-dates#readme)
 
 ## License
 
