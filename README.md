@@ -2,13 +2,16 @@
 
 > Millisecond conversions for common date units (seconds, minutes, hours etc).
 
-## Installation
-
+## :cloud: Installation
+    
 ```sh
 $ npm i --save date-unit-ms
 ```
 
-## Example
+            
+## :clipboard: Example
+
+        
 
 ```js
 const dateUnitMs = require("date-unit-ms");
@@ -31,8 +34,9 @@ console.log(dateUnitMs.day);
 console.log(dateUnitMs.week);
 // => 604800000
 ```
-
-## Documentation
+    
+## :memo: Documentation
+    
 
 The library exports an object containing the number of milliseconds for the following date units:
 
@@ -43,20 +47,19 @@ The library exports an object containing the number of milliseconds for the foll
  - `day`
  - `week`
 
-## How to contribute
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`daty`](https://github.com/IonicaBizau/daty#readme)
+ - [`daty`](https://github.com/IonicaBizau/daty#readme)—A tiny library to manage date objects.
+ - [`diff-dates`](https://github.com/IonicaBizau/diff-dates#readme)—Make date differences.
 
- - [`diff-dates`](https://github.com/IonicaBizau/diff-dates#readme)
-
-## License
-
+## :scroll: License
+    
 [MIT][license] © [Ionică Bizău][website]
-
+    
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
