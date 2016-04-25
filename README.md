@@ -1,17 +1,18 @@
+
 # date-unit-ms [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Downloads](https://img.shields.io/npm/dt/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Millisecond conversions for common date units (seconds, minutes, hours etc).
 
 ## :cloud: Installation
-    
+
 ```sh
 $ npm i --save date-unit-ms
 ```
 
-            
+
 ## :clipboard: Example
 
-        
+
 
 ```js
 const dateUnitMs = require("date-unit-ms");
@@ -34,11 +35,17 @@ console.log(dateUnitMs.day);
 console.log(dateUnitMs.week);
 // => 604800000
 ```
-    
+
 ## :memo: Documentation
-    
+
+
+### exports
+
+
+
 
 The library exports an object containing the number of milliseconds for the following date units:
+
 
  - `ms`
  - `second`
@@ -47,19 +54,21 @@ The library exports an object containing the number of milliseconds for the foll
  - `day`
  - `week`
 
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+
  - [`daty`](https://github.com/IonicaBizau/daty#readme)—A tiny library to manage date objects.
  - [`diff-dates`](https://github.com/IonicaBizau/diff-dates#readme)—Make date differences.
 
 ## :scroll: License
-    
+
 [MIT][license] © [Ionică Bizău][website]
-    
+
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
