@@ -1,6 +1,6 @@
 {
   "name": "date-unit-ms",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Millisecond conversions for common date units (seconds, minutes, hours etc).",
   "main": "lib/index.js",
   "directories": {
@@ -55,6 +55,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
