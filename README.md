@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save date-unit-ms
+# Using npm
+npm install --save date-unit-ms
+
+# Using yarn
+yarn add date-unit-ms
 ```
 
 
