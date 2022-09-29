@@ -23,9 +23,11 @@
 
 
 <!-- PROJECT LOGO -->
+<br/>
 <div align="center">
     <a href="https://github.com/IonicaBizau/date-unit-ms">
         <img src="./assets/images_readme/logoWhite.png" alt="Logo" width="100" height="100">
+    </a>
 </div>
 <h2 align="center">date-unit-ms</h2>
 
