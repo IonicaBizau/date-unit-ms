@@ -17,19 +17,37 @@
 
 
 
-# date-unit-ms
-
+<!-- PROJECT SHIELDS -->
  [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Downloads](https://img.shields.io/npm/dt/date-unit-ms.svg)](https://www.npmjs.com/package/date-unit-ms) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-<a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+
+
+<!-- PROJECT LOGO -->
+<div align="center">
+    <a href="https://github.com/IonicaBizau/date-unit-ms">
+        <img src="./assets/images_readme/logoWhite.png" alt="Logo" width="100" height="100">
+</div>
+<h2 align="center">date-unit-ms</h2>
+
+<p align="center">
+    Millisecond conversions for common date units (seconds, minutes, hours etc)
+    <br/>
+    <a href="https://github.com/IonicaBizau/date-unit-ms"><strong>Explore the documents »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/IonicaBizau/date-unit-ms">See demo</a>
+    ·
+    <a href="https://github.com/IonicaBizau/date-unit-ms/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/IonicaBizau/date-unit-ms/issues">Request feature</a>
+</p>
+<br/>
+</div>
+
+<div align="center"><a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a></div>
 
 
 
-
-
-
-
-> Millisecond conversions for common date units (seconds, minutes, hours etc).
 
 
 
