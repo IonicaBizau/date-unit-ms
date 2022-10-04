@@ -95,7 +95,7 @@ console.log(dateUnitMs.week);
 // => 604800000
 
 console.log(dateUnitMs.year);
-// => 31540000000
+// => 31536000000
 ```
 
 
