@@ -93,6 +93,9 @@ console.log(dateUnitMs.day);
 
 console.log(dateUnitMs.week);
 // => 604800000
+
+console.log(dateUnitMs.year);
+// => 31540000000
 ```
 
 
@@ -136,6 +139,7 @@ The library exports an object containing the number of milliseconds for the foll
  - `hour`
  - `day`
  - `week`
+ - `year`
 
 
 
