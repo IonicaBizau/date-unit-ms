@@ -29,7 +29,7 @@
 
 
 
-> Millisecond conversions for common date units (seconds, minutes, hours etc).
+> Milliseconds conversions for common date units (seconds, minutes, hours etc).
 
 
 
